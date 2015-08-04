@@ -3,6 +3,10 @@ Functional Things
 
 Some functional style tinkering in Golang.
 
+# Usage
+
+`go run main.go`
+
 # Demonstrates
 
 1. List construction
